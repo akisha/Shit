@@ -32,4 +32,6 @@ public class SparseMatrix {
         }
         return m;
     }
+
+    public int nRow = CountRow(inF);
 }
